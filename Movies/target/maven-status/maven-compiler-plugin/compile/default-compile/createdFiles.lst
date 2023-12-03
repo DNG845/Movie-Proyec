@@ -1,0 +1,4 @@
+com\mycompany\movies\MovieAPIManager.class
+com\mycompany\movies\ControladorPeliculas.class
+com\mycompany\movies\Pelicula.class
+com\mycompany\movies\Main.class
